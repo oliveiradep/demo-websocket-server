@@ -1,5 +1,5 @@
 # demo-websocket-server
 Demo WebSocket server.
 
-# Server
+# URL
 ws://localhost:9898/
