@@ -2,4 +2,4 @@
 Demo WebSocket server.
 
 # URL
-ws://localhost:9898/
+ws://localhost:9898
